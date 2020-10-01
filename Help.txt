@@ -1,0 +1,11 @@
+Este programa permite realizar operaciónes entre matrices como lo son SUMA, RESTA y TRANSPUESTA. Tenga en cuenta que las matrices deben ser del mismo tamaño para poder hacer las operaciones si no le mostrara "Error no podemos realizar la operación".
+
+Los comandos que debes utilizar con su (-) son:
+
+	-v	Información del programa.
+	-a	Suma.
+	-r	Resta.
+	-t	Transpuesta.
+	-w	Guarda tu respuesta en un archivo csv.
+
+Muchas gracias esperamos que te sirva.
